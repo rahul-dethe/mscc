@@ -1,0 +1,27 @@
+Step 1 : Do the Fragmentation for following molecules
+1.      1CEK
+2.      alpha_cyclodextrin
+3.      betacarotene
+4.      C2H2_10
+5.      CO2_25
+6.      H2O_16_HF
+7.      H2O_16_MP2
+
+Step 2 : Calculate the energy for following molecules
+1.      alpha_cyclodextrin      @       B3LYP/6-31++G(d,p)	FC[-3664.79414]	
+2.      C2H2_10                 @       MP2/aug-cc-pVDZ		FC[ -771.00342]
+3.      CO2_25                  @       B97D/aug-cc-pVDZ	FC[-4712.80922]
+4.      H2O_16_HF               @       HF/aug-cc-pVDZ		FC[-1216.85765]
+
+Step 3 : Calculate the Vibrational IR for following molecules
+1.      alpha_cyclodextrin      @       B3LYP/6-31++G(d,p)
+2.      C2H2_10                 @       MP2/aug-cc-pVDZ
+3.      CO2_25                  @       B97D/aug-cc-pVDZ
+4.      H2O_16_HF               @       HF/aug-cc-pVDZ
+
+Step 4 : Calculate the Vibrational IR for following molecules using PSE
+1.      1CEK                    @       CAM-B3LYP/aug-cc-pVDZ	FC[-2951.916457]
+2.      betacarotene            @       MP2/cc-pVDZ		FC[-1552.828928]
+3.      H2O_16_MP2              @       MP2/aug-cc-pVDZ		FC[-1220.451468]
+
+
