@@ -1,9 +1,20 @@
-AMDKIIT    - https://github.com/AMDKIIT
+Copyright/Licence of these softwares are reserved with the author/s of the software. Please visit the
+respective software site or contact the author of the software for copyright/Licence information before
+using the software.
 
-ANN-CI     - https://github.com/koushik-bug/AL-MCCI
+LITESOPH: https://aitgcodes.github.io/litesoph-website/index.html
+   
+ Contact:  
+  1.  Prof. Varadharajan Srinivasan (Principal Investigator); Email: vardha@iiserb.ac.in,
+ 
+  2.  Prof. Sebastian Wuster(Co-Principal Investigator); Email: sebastian@iiserb.ac.in
 
-LITESOPH   - https://aitgcodes.github.io/litesoph-website/index.html
+AMDKIIT: https://github.com/AMDKIIT/amdkiit
+  1.   Contact: amdkiit@gmail.com
 
-MTASpec	- https://data.mendeley.com/datasets/m5b5zhxkfh/1
+ ANN-CI: https://github.com/dghoshlab/AL-MCCI#connection-file
 
-μ2Mech	- Will be updated soon
+   1.Twitter - @koushikseth29 @GhoshDebashree1, Website - dglab
+ 
+ Molecular Tailoring Approach 
+ MTASpec: https://data.mendeley.com/datasets/m5b5zhxkfh/1
