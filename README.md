@@ -5,9 +5,9 @@ respective software site or contact the author of the software for copyright/Lic
 LITESOPH: https://aitgcodes.github.io/litesoph-website/index.html
    
  Contact:  
-    Prof. Varadharajan Srinivasan (Principal Investigator); Email: vardha@iiserb.ac.in,
+    Prof. Varadharajan Srinivasan (Principal Investigator); Email: vardha@iiserb.ac.in
  
-    Prof. Sebastian Wuster(Co-Principal Investigator); Email: sebastian@iiserb.ac.in,
+    Prof. Sebastian Wuster(Co-Principal Investigator); Email: sebastian@iiserb.ac.in
 
 AMDKIIT: https://github.com/AMDKIIT/amdkiit
      Contact: amdkiit@gmail.com
