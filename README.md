@@ -16,5 +16,4 @@ AMDKIIT: https://github.com/AMDKIIT/amdkiit
 
    1.Twitter - @koushikseth29 @GhoshDebashree1, Website - dglab
  
- Molecular Tailoring Approach 
- MTASpec: https://data.mendeley.com/datasets/m5b5zhxkfh/1
+ Molecular Tailoring Approach (MTASpec) : https://data.mendeley.com/datasets/m5b5zhxkfh/1
