@@ -1,7 +1,7 @@
-Copyright/Licence of these softwares are reserved with the author/s of the software. Please visit the
-respective software site or contact the author of the software for copyright/Licence information before
-using the software.
+Copyright/Licence
 
+Copyright/Licence of these softwares are reserved with the author/s of the software. Please visit the
+respective software site or contact the author of the software for copyright/Licence
 LITESOPH: https://aitgcodes.github.io/litesoph-website/index.html
    
  Contact:  
