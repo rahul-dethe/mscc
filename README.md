@@ -5,12 +5,12 @@
 
 ---
 
-## 🛠 Step 1: Log in to the NSM System
+##  Step 1: Log in to the NSM System
 If you don’t have access, please contact **mscc-support@cdac.in**.
 
 ---
 
-## 🏃 Step 2: Running an Application
+##  Step 2: Running an Application
 There are two ways to run an application: **Interactive Mode** and **Non-Interactive Mode**.
 
 ### 🔹 A) Running an Application in 'Interactive Mode'
